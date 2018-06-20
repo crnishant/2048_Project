@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
 
 /**
  *
- * By: Ben Conrad and Nishant Chintala
+ * By: Nishant Chintala
  */
 /*
 The GamePlay class contains moving methods for the tiles as well as the reActivate
