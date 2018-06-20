@@ -10,7 +10,7 @@ import javax.swing.border.EmptyBorder;
 
 /**
 *
-* By: Ben Conrad and Nishant Chintala
+* By: Nishant Chintala
 */
 //The Tile Class creates a tile object that has a color, number, index, x and y position, and an active boolean. The tile is intended to be drawn on a JFrame and appear as a colored square with a number in the middle.
 public class Tile extends JPanel{
