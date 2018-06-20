@@ -10,7 +10,7 @@ import java.awt.event.KeyListener;
 import java.util.Date;
 /**
  *
- * By: Ben Conrad and Nishant Chintala
+ * By: Nishant Chintala
  */
 /*
 The Game class contains many of the methods needed to play the game. It handles
