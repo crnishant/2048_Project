@@ -7,7 +7,7 @@ import javax.swing.JPanel;
 import java.awt.*;
 import javax.swing.*;
 /**
-* Created by Ben and Nish
+* Created by Nishant Chintala
 */
 // The Clock Class makes a JPanel object that displays the current play time on a JFrame.
 public class Clock extends JPanel{
