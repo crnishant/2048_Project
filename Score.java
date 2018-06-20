@@ -8,7 +8,7 @@ import java.awt.*;
 import javax.swing.*;
 
 /**
-* Created by Ben and Nish
+* Created by Nishant Chintala
 */
 //The Score Class is a JPanel Object that draws the score number on a JFrame.
 public class Score extends JPanel {
